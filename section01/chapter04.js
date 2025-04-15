@@ -19,7 +19,7 @@ let $_name;
 //3-3. 예약어를 사용할 수 없다.
 
 //let let , let if ...
-
+//
 //4. 변수 명명 가이드
 let salesCount = 1;
 let refundCount = 1;
