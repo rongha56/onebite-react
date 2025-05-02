@@ -10,8 +10,6 @@ let num5 = 3 % 2;
 
 let num6 = 1 + 2 * 10; //21
 let num7 = (1 + 2) * 10; //30
-console.log(num6);
-console.log(num7);
 
 //3. 복합 대입 연산자
 let num8 = 10;
